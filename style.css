@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma");
 #button-container {
     text-align: center;
 }
@@ -5,6 +6,7 @@
 h1 {
     text-align: center;
     color:red;
+    font-family: Baloo Tamma;
 }
 svg{
    background:skyblue;
